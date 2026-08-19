@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reconnaisance/Passive Reconnaisance/1. Fundamentals.md",
+                "file": "Networking/2. Protocolos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Fundamentals"
+              "title": "2. Protocolos"
             }
           }
         ]
@@ -188,10 +188,11 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "63224762b11d59a2",
+  "active": "18f4476112d61877",
   "lastOpenFiles": [
-    "Networking/1. Fundamentals.md",
     "Reconnaisance/Passive Reconnaisance/1. Fundamentals.md",
+    "Networking/2. Protocolos.md",
+    "Networking/1. Fundamentals.md",
     "Reconnaisance/Active Reconnaisance",
     "Reconnaisance/Passive Reconnaisance",
     "Reconnaisance",
